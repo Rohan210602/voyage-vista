@@ -1,4 +1,4 @@
-# voyage-vista
+# https://voyagevistadotin.vercel.app/blog
 # VoyageVista — Blog Platform![image](https://github.com/user-attachments/assets/080c2457-fcaa-4f12-be2f-68e5957ae567)
 
 
